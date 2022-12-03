@@ -2,7 +2,7 @@
 
 ## Open Home Terminal 1
 
-```bash
+```prettier
 git clone https://github.com/digininja/DVWA.git
 ```
 
