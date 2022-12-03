@@ -111,10 +111,6 @@ chown www-data /var/www/html/hackable/uploads/
 ```
 
 ```ruby
-chown 777 /var/www/html/hackable/uploads/
-```
-
-```ruby
 chown www-data /var/www/html/DVWA/external/phpids/0.6/lib/IDS/tmp/phpids_log.txt
 ```
 
