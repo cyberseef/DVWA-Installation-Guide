@@ -2,7 +2,7 @@
 
 ## Open Home Terminal 1
 
-```ruby
+```bash
 git clone https://github.com/digininja/DVWA.git
 ```
 
