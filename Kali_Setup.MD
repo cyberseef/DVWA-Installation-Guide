@@ -10,7 +10,7 @@ git clone https://github.com/digininja/DVWA.git
 sudo mv DVWA /var/www/html
 ```
 
-```rubyruby
+```ruby
 cd /var/www/html
 ```
 
