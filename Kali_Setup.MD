@@ -36,6 +36,8 @@ sudo service mariadb start
 mysql
 ```
 
+Now database configurations will open up so type the commands below.
+
 ```
 create database dvwa;
 ```
