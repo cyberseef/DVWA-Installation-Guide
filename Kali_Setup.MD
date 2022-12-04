@@ -119,6 +119,14 @@ chown www-data /var/www/html/DVWA/config
 ```
 
 ```ruby
+chown www-data /var/www/html/DVWA/config/config.inc.php
+```
+
+```ruby
+chown www-data /var/www/html/DVWA/config/config.inc.php.dist
+```
+
+```ruby
 apachectl restart
 ```
 
