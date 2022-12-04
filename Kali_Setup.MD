@@ -107,7 +107,7 @@ apt install php-gd
 ```
 
 ```ruby
-chown www-data /var/www/html/hackable/uploads/
+chown www-data /var/www/html/DVWA/hackable/uploads/
 ```
 
 ```ruby
